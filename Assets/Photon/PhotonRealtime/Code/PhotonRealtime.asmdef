@@ -1,0 +1,15 @@
+{
+    "name": "PhotonRealtime",
+    "references": [
+        "PhotonWebSocket",
+        "ClientServerCommon"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
